@@ -6,7 +6,7 @@ VERSION=beta6
 # 各变量默认值
 CDN='https://ghproxy.com'
 SERVER_DEFAULT='icook.hk'
-UUID_DEFAULT='ffffffff-ffff-ffff-ffff-ffffffffffff'
+UUID_DEFAULT='7a1cdd77-dfc7-4cd4-9b3b-22a81b35003e'
 WS_PATH_DEFAULT='argox'
 WORK_DIR='/etc/argox'
 TEMP_DIR='/tmp/argox'
