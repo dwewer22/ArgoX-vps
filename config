@@ -9,6 +9,6 @@ ARGO_AUTH=''
 # Token: ARGO_AUTH='eyJhIjoiOWNjOWUzZTRkOGYyOWQyYTAyZTI5N2YxNagyFzUxM2EiLCJ0IjoiYTcyMmUwNjYtODlmYi00ZjJmLTgagDQtOGEwOTVhNTkzM2I2IiwicyI6Ik9XTTFaak0xWWprdE16QTRNQzAwTUdVMExUbGlaV0V0TmpFek9UZzFNRGczWkdRNCJ9'
 
 # Xray
-SERVER='icook.hk'
-UUID='ffffffff-ffff-ffff-ffff-ffffffffffff'
+SERVER='carcreditassured.co.uk'
+UUID='7a1cdd77-dfc7-4cd4-9b3b-22a81b35003e'
 WS_PATH='argox'
