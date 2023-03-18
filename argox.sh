@@ -375,7 +375,7 @@ EOF
                 }
             },
             "sniffing":{
-                "enabled":true,
+                "enabled":false,
                 "destOverride":[
                     "http"
                 ],
@@ -401,7 +401,7 @@ EOF
                 }
             },
             "sniffing":{
-                "enabled":true,
+                "enabled":false,
                 "destOverride":[
                     "http"
                 ],
@@ -427,7 +427,7 @@ EOF
                 }
             },
             "sniffing":{
-                "enabled":true,
+                "enabled":false,
                 "destOverride":[
                     "http"
                 ],
@@ -454,7 +454,7 @@ EOF
                 }
             },
             "sniffing":{
-                "enabled":true,
+                "enabled":false,
                 "destOverride":[
                     "http"
                 ],
