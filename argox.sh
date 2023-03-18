@@ -375,10 +375,9 @@ EOF
                 }
             },
             "sniffing":{
-                "enabled":false,
+                "enabled":true,
                 "destOverride":[
-                    "http",
-                    "tls"
+                    "http"
                 ],
                 "metadataOnly":false
             }
@@ -402,10 +401,9 @@ EOF
                 }
             },
             "sniffing":{
-                "enabled":false,
+                "enabled":true,
                 "destOverride":[
-                    "http",
-                    "tls"
+                    "http"
                 ],
                 "metadataOnly":false
             }
@@ -429,10 +427,9 @@ EOF
                 }
             },
             "sniffing":{
-                "enabled":false,
+                "enabled":true,
                 "destOverride":[
-                    "http",
-                    "tls"
+                    "http"
                 ],
                 "metadataOnly":false
             }
@@ -457,10 +454,9 @@ EOF
                 }
             },
             "sniffing":{
-                "enabled":false,
+                "enabled":true,
                 "destOverride":[
-                    "http",
-                    "tls"
+                    "http"
                 ],
                 "metadataOnly":false
             }
@@ -468,7 +464,8 @@ EOF
     ],
     "dns":{
         "servers":[
-            "https+local://8.8.8.8/dns-query"
+            "8.8.8.8",
+            "8.8.4.4"
         ]
     },
     "outbounds":[
